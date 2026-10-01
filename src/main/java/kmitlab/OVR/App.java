@@ -104,7 +104,7 @@ public class App {
             default:
                 System.out.println("\nInvalid choice!");
         }
-
+        System.out.println("Thank you visit again");
         sc.close();
     }
 }
