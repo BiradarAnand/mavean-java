@@ -24,7 +24,16 @@ public class App {
         System.out.println("2. Rent a Vehicle");
         System.out.println("3. Return a Vehicle");
         System.out.println("4. Exit");
-
+ System.out.println("\n1. View Available Vehicles");
+        System.out.println("2. Rent a Vehicle");
+        System.out.println("3. Return a Vehicle");
+        System.out.println("4. Exit"); System.out.println("\n1. View Available Vehicles");
+        System.out.println("2. Rent a Vehicle");
+        System.out.println("3. Return a Vehicle");
+        System.out.println("4. Exit"); System.out.println("\n1. View Available Vehicles");
+        System.out.println("2. Rent a Vehicle");
+        System.out.println("3. Return a Vehicle");
+        System.out.println("4. Exit");
         System.out.print("\nEnter your choice: ");
         int choice = sc.nextInt();
 
