@@ -13,6 +13,8 @@ public class App {
         System.out.println("     ONLINE RENTAL SYSTEM Narayanguda");
         System.out.println("     ONLINE RENTAL SYSTEM Narayanguda");
         System.out.println("     ONLINE RENTAL SYSTEM Narayanguda");
+        System.out.println("     ONLINE RENTAL SYSTEM Narayanguda");
+        System.out.println("     ONLINE RENTAL SYSTEM Narayanguda");
         
 
 
